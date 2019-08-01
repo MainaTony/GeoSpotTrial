@@ -2,7 +2,8 @@ export const products = [
   {
     name: 'Kamulu',
     price: 2000000,
-    description: 'Next to SGR'
+    description: 'Next to SGR',
+    
   },
   {
     name: 'Naivasha Lakeview',
