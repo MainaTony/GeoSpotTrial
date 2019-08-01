@@ -4,6 +4,7 @@ export const products = [
     price: 2000000,
     description: 'Next to SGR',
     
+    
   },
   {
     name: 'Naivasha Lakeview',
